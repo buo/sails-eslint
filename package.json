@@ -1,5 +1,5 @@
 {
-  "name": "sails-eslint",
+  "name": "sails-eslint-fixed",
   "version": "1.1.1",
   "description": "Add eslint linting utility to Sails JS",
   "main": "index.js",
